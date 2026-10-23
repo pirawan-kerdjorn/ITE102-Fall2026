@@ -25,12 +25,14 @@
     <form action="#" method="post">
 
         <label for="firstName">First Name:</label>
-        <input type="text" id="firstName" name="firstName" required>
+        <input type="text" id="firstName" name="firstName"
+       minlength="2" maxlength="30" required>
 
         <br><br>
 
         <label for="lastName">Last Name:</label>
-        <input type="text" id="lastName" name="lastName" required>
+        <input type="text" id="lastName" name="lastName"
+       minlength="2" maxlength="30" required>
 
         <br><br>
 
@@ -52,6 +54,10 @@
 
         <button type="submit">Send Order</button>
 
+        <p>
+    Visit our <a href="https://www.example.com">website</a> for more information.
+        </p>
+        
     </form>
 
 </body>
