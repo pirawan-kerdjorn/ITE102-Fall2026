@@ -1,0 +1,38 @@
+/* red */
+.red {
+    color: red;
+}
+
+/* green  */
+.green {
+    color: rgb(0, 170, 107);
+}
+
+/* blue */
+.blue {
+    color: #057eff;
+}
+
+/* orange */
+.orange {
+    color: #ff7e05;
+}
+
+/* purple */
+.purple {
+    color: #ac05ff;
+}
+
+
+
+/* Yes button */
+#yesButton {
+    background-color: rgb(26, 203, 91);
+    color: white;
+}
+
+/* No button */
+#noButton {
+    background-color: red;
+    color: white;
+}

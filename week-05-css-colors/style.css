@@ -1,0 +1,22 @@
+
+/* Make the h1 text green */
+h1 {
+    color: rgb(29, 144, 54);
+}
+
+/* Make the h2 text purple */
+h2 {
+    color: rgb(178, 69, 255);
+}
+
+/* Give paragraphs a green background and pink text */
+p {
+    background-color: rgb(0, 128, 128);
+    color: pink;
+}
+
+/* Make the button blue with white text */
+button {
+    background-color: rgb(0, 123, 255);
+    color: white;
+}
